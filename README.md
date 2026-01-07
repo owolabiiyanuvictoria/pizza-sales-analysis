@@ -42,3 +42,7 @@ This project analyzes pizza sales data from January 2025 to December 2025 to eva
 This analysis highlights key revenue drivers, peak demand periods, and underperforming products. The insights can help improve inventory management, optimize product offerings, and design targeted promotions during high-demand periods.<img width="1314" height="750" alt="best-worst-sellers" src="https://github.com/user-attachments/assets/eebb1148-3901-46b5-afe8-60a091f4ff74" />
 <img width="1325" height="747" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/cc29badf-b91a-4ade-a83a-34f133de7958" />
 
+
+[Pizza Sales.sql](https://github.com/user-attachments/files/24468002/Pizza.Sales.sql)
+
+
