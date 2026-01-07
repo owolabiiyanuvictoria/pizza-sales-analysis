@@ -3,6 +3,11 @@ Sales performance analysis using SQL / Power BI
 
 ## Project Overview
 This project analyzes pizza sales data from January 2025 to December 2025 to evaluate overall sales performance, customer ordering behavior, and product-level performance. The goal is to generate insights that can support data-driven decisions around inventory planning, product strategy, and sales optimization.
+## Dashboard Preview
+
+![Overview Dashboard](overview-dashboard.png)
+![Best and Worst Sellers](best-worst-sellers.png)
+
 
 ## Key Metrics
 - Total Revenue: $817.86K
